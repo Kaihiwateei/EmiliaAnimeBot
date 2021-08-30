@@ -62,7 +62,7 @@ You can find my list of available commands with! Hit` *🔐Commands*
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ ADD EMILIA TO YOUR GROUP ➕️",url="http://t.me/Horrid_Henrybot?startgroup=true"),
+            text="➕️ ADD ~HENRY TO YOUR GROUP ➕️",url="http://t.me/Horrid_Henrybot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(
