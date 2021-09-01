@@ -209,8 +209,7 @@ def start(update: Update, context: CallbackContext):
             )
     else:
         update.effective_message.reply_text(
-            https://telegra.ph/Henry-09-01
-
+              
             ),
             parse_mode=ParseMode.HTML,
         )
